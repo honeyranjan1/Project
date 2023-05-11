@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;  
+  }
+  
+  header {
+    background-image: url('https://hpcismart.com/images/website/ProductProfiles/DIR_25/F_69258.jpg') ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: u=black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 0 1em;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2em;
+  }
+  
+  section h2 {
+    margin-top: 0;
+  }
+  section h3 {
+    margin-top: 0;
+  }
+  section h4 {
+    margin-top: 0;
+  }
+  section h5 {
+    margin-top: 0;
+  }
+  section h6 {
+    margin-top: 0;
+  }
+  a {
+    background-color: black;
+    color: lawngreen;
+    display: inline-block;
+    padding: 1em;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color:greenyellow;
+  }
+  
+  footer {
+    background-image: url('https://hpcismart.com/images/website/ProductProfiles/DIR_25/F_69258.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: black;
+    padding: 1em;
+    text-align: center;
+  }
+ 
